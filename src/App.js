@@ -388,15 +388,15 @@ function App() {
                 <div className="col mb-4">
                   <div className="card">
                     <div className="img-wrapper mt-3">
-                      <img
+                      {/* <img
                         src="./images/world-map.jpg"
                         alt="World Map"
                         className="card-img-top"
-                      />
+                      /> */}
                     </div>
                     <div className="card-content mt-3">
                       <div className="fs-2" style={{ fontWeight: "600" }}>
-                        World Map
+                        New project upcomming
                       </div>
 
                       <a
@@ -408,11 +408,11 @@ function App() {
                         GitHub Repo Link
                       </a>
 
-                      <p>
+                      {/* <p>
                         In this project, we have used world countries JSON data
                         to display country details. Clicking on any country
                         shows its details on the right side of the project.
-                      </p>
+                      </p> */}
                     </div>
                   </div>
                 </div>

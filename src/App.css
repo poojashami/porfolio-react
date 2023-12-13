@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  font-family: Poppins,sans-serif;
+}
+.container.d-flex.items-center.justify-start {
+  font-family: monospace;
+}
+.navigation a {
+  color: white;
+  text-decoration: none; 
+  margin-right: 30px; 
+  font-weight: 500;
+
+}
+
+/* To avoid adding margin to the last item */
+.navigation a:last-child {
+  margin-right: 0;
+}
+
+
+
+
+
